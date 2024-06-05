@@ -1,4 +1,4 @@
-name: HAMC Server Bedrock
+name: HAMC Server Bedrock - Test
 description: Host a Bedrock Minecraft server on Home Assistant
 version: 1.0.3
 slug: hamc-bedrock

@@ -1,4 +1,4 @@
-name: HAMC Server Bedrock
+name: HAMC Server Bedrock - Dev
 description: Host a Bedrock Minecraft server on Home Assistant
 version: 1.2.0
 slug: hamc-bedrock
@@ -80,5 +80,3 @@ map:
   - addon_config:rw
 environment:
   EULA: "TRUE"
-
-

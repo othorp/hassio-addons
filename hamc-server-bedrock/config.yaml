@@ -1,6 +1,6 @@
 name: HAMC Server Bedrock - Dev
 description: Host a Bedrock Minecraft server on Home Assistant
-version: 1.2.3
+version: 1.2.4
 slug: hamc-bedrock
 image: othorp/{arch}-hamc-bedrock
 init: false

@@ -1,6 +1,11 @@
-## 1.2.4
+## 1.2.1.1
 
 Updated itzg/docker-minecraft-bedrock-server to 2024.11.0
+
+## 1.2.1
+
+- Fix some config names by @felixstorm
+- Fix send-command by @felixstorm
 
 ## 1.2.0
 

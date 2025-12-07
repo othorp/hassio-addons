@@ -1,3 +1,7 @@
+## 1.2.1.3
+
+Updated itzg/docker-minecraft-bedrock-server to 2025.11.0
+
 ## 1.2.1.2
 
 Updated itzg/docker-minecraft-bedrock-server to 2025.5.0

@@ -1,3 +1,7 @@
+## 1.2.1.4
+
+Migrate to GitHub Container Registry
+
 ## 1.2.1.3
 
 Updated itzg/docker-minecraft-bedrock-server to 2025.11.0
